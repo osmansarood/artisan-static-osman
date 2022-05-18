@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Artisan Static new deploy</h1>
+    <h1>Welcome to Artisan Static new deploy 1</h1>
 
     <p>Osmans cool Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
 
